@@ -1,6 +1,7 @@
 ## Hi there 👋
-![Nour El imane's GitHub stats](https://github-readme-stats.vercel.app/api?username=NourPng&show_icons=true&theme=radical&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NourPng&layout=compact&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ELBAR-Nour&show_icons=true&theme=radical&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ELBAR-Nour&layout=compact&theme=radical)
+
 
 <!--
 **ELBAR-Nour/ELBAR-Nour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
