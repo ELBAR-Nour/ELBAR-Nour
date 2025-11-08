@@ -6,14 +6,8 @@
 ---
 
 ✨ **About Me**  
-I am a student engineer in Intelligent Systems and Data at the National School of Computer Science, looking for new opportunities to apply my skills and expand my knowledge.  
-
-Software wizard 🧙‍♂️, Potterhead ⚡, coffee-powered coding marathoner ☕💻, always on a quest for new spells… I mean, skills.  
-
-🪄 **Fun Facts / Random Spells**  
-- Can debug your code faster than a Firebolt ⚡  
-- Convinced my keyboard has a mind of its own sometimes 🧹  
-- Believe in “Wingardium Leviosa” for lifting spirits and bugs  
+- I am a student in AI & Data science, looking for new opportunities to apply my skills and expand my knowledge. 
+- Potterhead ⚡, always on a quest for new spells… I mean, skills.  
 - My GitHub contributions are like a Marauder’s Map: messy but magical  
 
 ---
@@ -48,12 +42,11 @@ Software wizard 🧙‍♂️, Potterhead ⚡, coffee-powered coding marathoner 
 **Design & Prototyping:**  
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)  
 
-**Currently Learning:**  
-Supervised Learning, Generative AI, Power BI, Scikit-learn, Pandas, Matplotlib  
+## Hi there 👋
 
-**Soft Skills & Languages:**  
-- Problem-solving, self-learning, adaptability, teamwork, project management, time management  
-- Languages: Arabic, French, English  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ELBAR-Nour&show_icons=true&theme=radical&count_private=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ELBAR-Nour&layout=compact&theme=radical)  
+
 
 ---
 
@@ -61,11 +54,12 @@ Supervised Learning, Generative AI, Power BI, Scikit-learn, Pandas, Matplotlib
 
 ---
 
-## 🎮 Fun Mini Game  
+## 🎮 Magical Game  
 
-Click the badge below to play a simple GitHub-based game (a "guess the number" style repo game):
+Try this fun **Harry Potter Trivia Challenge**!  
 
-[![Play the Game](https://img.shields.io/badge/Play_Mini_Game-Click_me!-brightgreen?style=for-the-badge)](https://github.com/ELBAR-Nour/guess-the-number)  
+![Sorting Hat GIF](https://media.giphy.com/media/26u4cqiYI30juCOGY/giphy.gif)  
 
-> ⚡ The badge links to a small repository where you can play a simple interactive game or experiment with Python/JS.  
+[![Take the Hogwarts Quiz](https://img.shields.io/badge/Which_Hogwarts_House_Are_You?-Click_Me!-ff69b4?style=for-the-badge)](https://github.com/ELBAR-Nour/harry-potter-quiz)  
 
+> ⚡ Click the badge to play a mini Hogwarts quiz or trivia game. May the Sorting Hat be with you!  
