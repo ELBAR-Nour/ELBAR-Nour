@@ -42,24 +42,8 @@
 **Design & Prototyping:**  
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)  
 
-## Hi there 👋
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ELBAR-Nour&show_icons=true&theme=radical&count_private=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ELBAR-Nour&layout=compact&theme=radical)  
-
-
 ---
 
 *"Coder by day, wizard by night ⚡ | React, Python & coffee-powered spells 🧙‍♂️"*
 
 ---
-
-## 🎮 Magical Game  
-
-Try this fun **Harry Potter Trivia Challenge**!  
-
-![Sorting Hat GIF](https://media.giphy.com/media/26u4cqiYI30juCOGY/giphy.gif)  
-
-[![Take the Hogwarts Quiz](https://img.shields.io/badge/Which_Hogwarts_House_Are_You?-Click_Me!-ff69b4?style=for-the-badge)](https://github.com/ELBAR-Nour/harry-potter-quiz)  
-
-> ⚡ Click the badge to play a mini Hogwarts quiz or trivia game. May the Sorting Hat be with you!  
