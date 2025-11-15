@@ -40,6 +40,3 @@
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)  
 
 
----
-
-*"Coder by day, wizard by night ⚡ | React, Python & coffee-powered spells 🧙‍♂️"*
