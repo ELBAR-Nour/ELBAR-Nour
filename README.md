@@ -5,7 +5,6 @@
 **About Me**  
 - I am a student in AI & Data Science, looking for new opportunities to apply my skills and expand my knowledge.  
 - Potterhead ⚡, always on a quest for new spells… I mean, skills.  
-- My GitHub contributions are like a Marauder’s Map: messy but magical  
 
 ---
 
